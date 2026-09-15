@@ -8,3 +8,6 @@ Activity 2:
 
 Activity 3:
 <img width="694" height="499" alt="Screenshot 2026-09-15 at 10 10 46 AM" src="https://github.com/user-attachments/assets/a590d1db-f8fb-4f6c-b6c5-5541994691b7" />
+
+Activity 4:
+<img width="1122" height="306" alt="Screenshot 2026-09-15 at 10 31 41 AM" src="https://github.com/user-attachments/assets/a334c1de-3c9b-4aec-89ac-71cc6cfa044a" />
